@@ -1,4 +1,4 @@
-**get_next_line**
+# get_next_line
 
 [![bleroy's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2404058)](https://github.com/JaeSeoKim/badge42)
 
